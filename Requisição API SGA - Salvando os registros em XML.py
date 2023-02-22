@@ -1,3 +1,5 @@
+# Atualizado
+import request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
 
